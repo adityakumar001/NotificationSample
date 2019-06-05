@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificationSample</string>
+    <string name="notification_clicked">You Clicked The Notification!!</string>
+</resources>
